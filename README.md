@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# Credit Fraud Detection
 
 ## Overview
 This project implements a credit card fraud detection model using machine learning techniques on an imbalanced dataset. The dataset contains anonymized credit card transactions, with features transformed via PCA (V1 to V28), along with Time, Amount, and a Class label (0 for legitimate, 1 for fraudulent). The goal is to detect fraudulent transactions accurately, focusing on metrics like Precision-Recall AUC due to the severe class imbalance (only ~0.17% fraud cases).
