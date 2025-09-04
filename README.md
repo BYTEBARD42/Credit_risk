@@ -83,7 +83,7 @@ Fork the repo, make changes, and submit a pull request. For issues, open a GitHu
 
 ## Credits
 - Dataset: ULB Machine Learning Group.
-- Inspired by standard fraud detection tutorials on Kaggle.
+- Inspired by https://ieeexplore.ieee.org/document/10541645
 - Tools: Built with Keras, Optuna, and scikit-learn.
 
 ---
